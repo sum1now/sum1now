@@ -9,11 +9,7 @@
 
 <h3 align="left">🚀 Personal Projects:</h3>
 <p align="left">
-  <a href="https://spotify-clone-sumeet.netlify.app" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/spotify--v1.png" alt="Spotify" width="24" height="24" />
-    <strong>Spotify Clone</strong>
-  </a>
-  <br />
+  
   <a href="https://tesla-clone-sumeet.netlify.app" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/tesla-logo.png" alt="Tesla" width="24" height="24" />
     <strong>Tesla Clone</strong>
