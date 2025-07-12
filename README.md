@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sumeet</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
+<h3 align="left">🚀 Personal Projects:</h3>
+<p align="left">
+  <a href="https://spotify-clone-sumeet.netlify.app" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/spotify--v1.png" alt="Spotify" width="24" height="24" />
+    <strong>Spotify Clone</strong>
+  </a>
+  <br />
+  <a href="https://tesla-clone-sumeet.netlify.app" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/tesla-logo.png" alt="Tesla" width="24" height="24" />
+    <strong>Tesla Clone</strong>
+  </a>
+</p>
+
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sumeetkale1" target="blank">
     <img src="https://img.shields.io/badge/Follow%20me-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
