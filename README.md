@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sum1now" target="blank"><img src="https://img.shields.io/twitter/follow/sum1now?logo=twitter&style=for-the-badge" alt="sum1now" /></a> </p>
 
-- 🌱 I’m currently learning **Codedamn Frontend Course**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **sumeetkale85@gmail.com**
 
