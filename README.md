@@ -2,6 +2,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 📫 How to reach me **sumeetkale85@gmail.com**
+
 <h3 align="left">🚀 Personal Projects:</h3>
 <p align="left">
   <a href="https://spotify-clone-sumeet.netlify.app" target="_blank">
@@ -15,9 +20,6 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 📫 How to reach me **sumeetkale85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
